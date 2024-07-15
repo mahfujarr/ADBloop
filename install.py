@@ -19,3 +19,4 @@ def install_apks(apk_folder):
 if __name__ == "__main__":
   apk_folder = "mahfujarr/ADBloop"
   install_apks(apk_folder)
+
