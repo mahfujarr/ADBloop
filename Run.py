@@ -2,7 +2,7 @@ import subprocess
 import time
 
 def command(package_name):
-  command = f"adb shell appops set {package_name} RUN_ANY_IN_BACKGROUND ignore"
+  command = f"adb shell appops set {package_name} RUN_ANY_IN_BACKGROUND allow"
   try:
     output = subprocess.check_output(command, shell=True, text=True)
     if output == "":
