@@ -37,6 +37,7 @@ com.qti.service.colorservice
 com.android.webview
 com.qualcomm.qti.confdialer
 com.android.shell
+com.google.android.ims
 com.android.qqs.portrait.layout_2x2
 com.android.theme.icon_pack.sam.android
 com.android.qqs.portrait.layout_2x3
@@ -66,7 +67,6 @@ com.android.emergency
 com.android.theme.font.Lettera
 com.bootleggers.shishufied.datefont.balticstorm
 com.android.cellbroadcastreceiver.module
-com.qualcomm.location
 com.google.android.gm
 com.android.carrierdefaultapp
 com.android.theme.font.fluidsans
@@ -118,7 +118,6 @@ com.android.theme.font.jtleonor
 com.custom.overlay.systemui.gestural.long
 mega.privacy.android.app
 com.android.se
-com.android.messaging
 com.android.qs.portrait.layout_4x6
 com.android.qs.portrait.layout_4x5
 com.android.qs.portrait.layout_4x4
@@ -176,7 +175,9 @@ com.hdictionary.bn
 com.android.qs.portrait.layout_6x3
 com.android.qs.portrait.layout_6x2
 com.custom.overlay.systemui.gestural.hidden
+com.google.android.apps.messaging
 com.dsi.ant.server
+com.chiller3.bcr
 com.android.theme.icon.defaultsquare
 com.android.theme.font.date_rosemary
 com.bootleggers.shishufied.datefont.prodeltco
@@ -195,6 +196,7 @@ com.android.theme.font.date_comicsans
 com.qualcomm.gps.overlay
 com.android.theme.font.exotwo
 com.google.android.apps.photos
+com.arena.banglalinkmela.app
 com.google.android.markup
 com.qualcomm.qti.workloadclassifier
 com.android.internal.display.cutout.emulation.corner
@@ -223,6 +225,7 @@ com.android.system.settings.card
 com.android.modulemetadata
 com.android.connectivity.resources
 com.custom.overlay.systemui.wifiForlorn
+com.brilliant.connect.com.bd
 com.custom.overlay.systemui.wifiFaintUI
 com.android.theme.icon_pack.kai.android
 com.android.system.settings.aosp
@@ -241,6 +244,7 @@ com.android.system.navbar.oneui
 com.android.dreams.basic
 com.google.android.calendar
 com.android.theme.icon.cylinderrounded
+com.google.android.contacts
 com.android.mms.service
 com.android.networkstack.overlay
 com.android.networkstack
@@ -295,12 +299,12 @@ com.android.qs.portrait.layout_2x4
 com.android.theme.font.nothingdotheadline
 com.android.systemui.signalbar_j
 com.android.systemui.signalbar_h
-com.google.android.apps.classroom
 com.android.systemui.signalbar_g
 com.android.systemui.signalbar_m
 com.android.nfc
 com.android.systemui.signalbar_l
 com.android.theme.icon_pack.plumpy.android
+com.google.android.deskclock
 com.android.systemui.signalbar_k
 com.android.carrierconfig.overlay.common
 com.android.cellbroadcastservice
@@ -335,6 +339,8 @@ org.protonaosp.theme.font.manrope
 com.android.systemui
 com.android.qs.portrait.layout_2x3
 com.android.qs.portrait.layout_2x2
+com.microsoft.skydrive
+com.google.android.dialer
 com.android.onetimeinitializer
 com.android.theme.icon_pack.acherus.android
 com.qualcomm.qti.uceShimService
@@ -356,7 +362,6 @@ com.android.theme.icon.roundedrect
 com.google.android.apps.wallpaper
 com.android.theme.icon.leaf
 com.instander.android
-com.android.deskclock
 com.android.wallpaperbackup
 com.android.systemui.wifibar_l
 com.android.systemui.wifibar_m
@@ -368,6 +373,7 @@ android
 com.android.theme.icon_pack.circular.android
 com.android.permissioncontroller
 com.bootleggers.shishufied.datefont.zerofour
+com.connect.enduser
 com.android.hotwordenrollment.xgoogle
 com.qualcomm.qti.dynamicddsservice
 com.android.qs.portrait.layout_3x2
@@ -388,7 +394,6 @@ com.android.internal.systemui.navbar.gestural_narrow_back
 com.android.theme.font.date_samsungone
 com.android.internal.display.cutout.emulation.tall
 com.android.cameraextensions
-com.qualcomm.location.XT
 com.android.systemui.signalbar_dd
 com.android.carrierconfig
 com.android.internal.systemui.navbar.gestural_wide_back
@@ -412,9 +417,9 @@ com.android.system.navbar.android
 com.android.intentresolver
 com.google.android.apps.docs
 com.android.theme.icon.hexagon
-com.android.dialer
 com.android.theme.font.opposans
 org.protonaosp.theme.font.recursive_linear
+com.microsoft.appmanager
 com.android.certinstaller
 com.mixplorer.addon.codecs
 com.android.theme.icon_pack.victor.android
@@ -437,7 +442,6 @@ com.android.phone
 com.android.internal.systemui.navbar.gestural_extra_wide_back
 org.protonaosp.deviceconfig
 com.android.theme.font.date_harmonysans
-com.android.contacts
 com.android.qqs.portrait.layout_1x2
 com.android.qqs.portrait.layout_1x3
 org.lineageos.lineageparts
@@ -488,7 +492,7 @@ com.android.systemui.signalbar_bb
 org.omnirom.omnijaws
 com.bootleggers.shishufied.datefont.roadrage
 com.facebook.katana
-com.android.dynsystem
+com.cloudflare.onedotonedotonedotone
 com.android.theme.font.date_misans
 com.android.hotspot2.osulogin
 com.android.theme.font.comfortaa

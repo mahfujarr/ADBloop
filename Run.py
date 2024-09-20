@@ -24,7 +24,7 @@ def main():
       command(package_name)
       print(f"{(n/line_count)*100:.1f}% completed", end='\r')
       n += 1
-      time.sleep(0.5)
+      time.sleep(0.1)
 
 if __name__ == "__main__":
   main()
