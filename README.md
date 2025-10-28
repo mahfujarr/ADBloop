@@ -1,4 +1,5 @@
 # ADBloop
+### run this to set battery usage of all userApps from apps3.txt to `restricted`
 
 1. Enable "USB Debugging" on the Android device: Settings > Developer options.
 2. Connect the device to the PC (ADB must be installed and available in PATH).
